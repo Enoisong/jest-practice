@@ -1,0 +1,23 @@
+{
+  "name": "jest-practice",
+  "version": "1.0.0",
+  "description": "<a name=\"readme-top\"></a>\r  # 📗 Table of Contents\r - [📖 About the Project](#about-project)\r   - [🛠 Built With](#built-with)\r     - [Tech Stack](#tech-stack)\r     - [Key Features](#key-features)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enoisong/jest-practice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Enoisong/jest-practice/issues"
+  },
+  "homepage": "https://github.com/Enoisong/jest-practice#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
