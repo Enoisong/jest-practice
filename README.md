@@ -12,14 +12,13 @@
 In this exercise, I write a few practical tests for JavaScript functions using the Jest library. I follow the AAA pattern to make my test easier for other developers to read and understand. I also try to use the TDD approach in practice.
 
 ## 🛠 Built With <a name="built-with"></a>
--Jest
+- Jest
  
 
 ### Tech Stack <a name="tech-stack"></a>
 - Jest
 
- 
-<!-- Features -->
+ <!-- Features -->
 ### Key Features <a name="key-features"></a>
 
 - #### Task 1
